@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/adriendinzey/Pokemon-Machine-Learning-Analysis">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="163" height="108">
   </a>
 
   <h3 align="center">Pokemon Type Analysis</h3>
@@ -63,8 +63,11 @@
 ### Built With
 
 * Python
-* Scikit-learn
 * Jupyter Notebook
+* Scikit-learn
+* pandas
+* statsmodels
+* seaborn
 
 
 
@@ -83,6 +86,21 @@ To get a local copy up and running follow these simple steps.
 3. Install Scikit-learn
    ```console
    pip install -U scikit-learn
+   ```
+4. Install pandas
+
+   ```console
+   pip install pandas
+   ```
+5. Install statsmodels
+
+   ```console
+   pip install statsmodels
+   ```
+6. Install seaborn
+
+   ```console
+   pip install seaborn
    ```
 
 ### Installation
@@ -124,7 +142,7 @@ Project Link: [https://github.com/adriendinzey/Pokemon-Machine-Learning-Analysis
 ## Acknowledgements
 
 * Data retrieved from data.world, posted by user [@data-society](https://data.world/data-society/pokemon-with-stats)
-
+* Readme Main Photo by [Vincent M.A. Janssen](https://www.pexels.com/photo/person-holding-pokemon-ball-toy-1310847/)
 
 
 
