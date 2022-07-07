@@ -20,7 +20,7 @@
     This project uses ML techniques to analyze the hidden "archetypes" of Pokemon, discovering along the way if the Pokemon type is a factor in these archetypes.
     <br />
     <br />
-    <a href="https://www.kaggle.com/code/dinzbag/pokemon-machine-learning-analysis">View Demo</a>
+    <a href="https://adriendinzey.github.io/ProProjects/Data%20Science/pokemon/Pokemon_Analysis.html">View Demo</a>
     ·
     <a href="https://github.com/adriendinzey/Pokemon-Machine-Learning-Analysis/issues">Report Bug</a>
     ·
