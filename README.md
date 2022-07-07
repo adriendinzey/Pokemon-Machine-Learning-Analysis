@@ -64,7 +64,6 @@
 * Jupyter Notebook
 * Scikit-learn
 * pandas
-* statsmodels
 * seaborn
 
 
