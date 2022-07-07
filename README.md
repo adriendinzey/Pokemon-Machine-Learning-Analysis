@@ -17,7 +17,7 @@
   <h3 align="center">Pokemon Type Analysis</h3>
  
   <a href="https://adriendinzey.github.io/ProProjects/Data%20Science/pokemon/Pokemon_Analysis.html">
-  <h1 align="center">View Project</h3></a>
+  <h1 align="center">View Project</h1></a>
   <p align="center">
     This project uses ML techniques to analyze the hidden "archetypes" of Pokemon, discovering along the way if the Pokemon type is a factor in these archetypes.
     <br />   
