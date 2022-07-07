@@ -85,19 +85,14 @@ To get a local copy up and running follow these simple steps.
    ```
 3. Install Scikit-learn
    ```console
-   pip install -U scikit-learn
+   pip install scikit-learn
    ```
 4. Install pandas
 
    ```console
    pip install pandas
    ```
-5. Install statsmodels
-
-   ```console
-   pip install statsmodels
-   ```
-6. Install seaborn
+5. Install seaborn
 
    ```console
    pip install seaborn
