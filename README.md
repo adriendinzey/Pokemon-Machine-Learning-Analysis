@@ -19,10 +19,8 @@
   <p align="center">
     This project uses ML techniques to analyze the hidden "archetypes" of Pokemon, discovering along the way if the Pokemon type is a factor in these archetypes.
     <br />
-    <a href="https://github.com/adriendinzey/Pokemon-Machine-Learning-Analysis"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/adriendinzey/Pokemon-Machine-Learning-Analysis">View Demo</a>
+    <a href="https://www.kaggle.com/code/dinzbag/pokemon-machine-learning-analysis">View Demo</a>
     ·
     <a href="https://github.com/adriendinzey/Pokemon-Machine-Learning-Analysis/issues">Report Bug</a>
     ·
@@ -137,10 +135,10 @@ Project Link: [https://github.com/adriendinzey/Pokemon-Machine-Learning-Analysis
 ## Acknowledgements
 
 * Data retrieved from data.world, posted by user [@data-society](https://data.world/data-society/pokemon-with-stats)
-* Readme Main Photo by [Vincent M.A. Janssen](https://www.pexels.com/photo/person-holding-pokemon-ball-toy-1310847/)
-
-
-
+* Readme Main Photo ("logo.png" and "pokeball.jpg") by [Vincent M.A. Janssen](https://www.pexels.com/photo/person-holding-pokemon-ball-toy-1310847/) under [Pexels License](https://www.pexels.com/license/)
+* Title Photo ("ballwithcards.jpg") by [Thimo Pedersen](https://unsplash.com/photos/dip9IIwUK6w) under [Unsplash License](https://unsplash.com/license)
+* "pikachus.jpg" by [Daniel Bernard](https://unsplash.com/photos/8WBqsyBWN4U) under [Unsplash License](https://unsplash.com/license)
+* "bigpika.jpg" by [mentatdgt](https://www.pexels.com/photo/yellow-pikachu-plushmascot-1049622/) under [Pexels License](https://www.pexels.com/license/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
